@@ -1,0 +1,4 @@
+com\flipka\PaymentService\controller\PaymentController.class
+com\flipka\PaymentService\service\PaymentService.class
+com\flipka\PaymentService\bean\PaymentBean.class
+com\flipka\PaymentService\PaymentServiceApplication.class

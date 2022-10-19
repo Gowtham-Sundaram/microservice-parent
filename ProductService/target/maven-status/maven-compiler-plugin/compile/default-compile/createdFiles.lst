@@ -1,0 +1,7 @@
+com\flipka\ProductService\service\ProductService.class
+com\flipka\ProductService\controller\ProductController.class
+com\flipka\ProductService\ProductServiceApplication.class
+com\flipka\ProductService\bean\ProductType.class
+com\flipka\ProductService\repository\ProductRepository.class
+com\flipka\ProductService\entity\ProductEntity.class
+com\flipka\ProductService\bean\ProductBean.class

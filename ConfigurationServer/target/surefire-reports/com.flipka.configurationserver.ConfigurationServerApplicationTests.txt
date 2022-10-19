@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.flipka.configurationserver.ConfigurationServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 80.499 s - in com.flipka.configurationserver.ConfigurationServerApplicationTests
